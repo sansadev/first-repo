@@ -1,1 +1,2 @@
 HELLO WOW I AM A FILE!
+This is the second line of the file.
